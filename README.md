@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soliyanaseyoum
 - 👀 I’m interested in learning more about software development + cybersecurity 
-- 🌱 I’m currently learning sys + network admin on linux system, advanced object oriented programming + more
+- 🌱 I’m currently studying topics like infosec, data structures, etc 
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me ... lets connect on LinkedIn
 
