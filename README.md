@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soliyanaseyoum
+- 👋 Hi, I’m Soliyana Seyoum. An IT Student at UDC. 
 - 👀 I’m interested in learning more about software development + cybersecurity 
 - 🌱 I’m currently studying topics like infosec, data structures, etc 
 - 💞️ I’m looking to collaborate on exciting projects
