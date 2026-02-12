@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Soliyana Seyoum. An IT Support Specialist. 
+- 👋 Hi, I’m Soliyana Seyoum. An IT Specialist. 
 - 👀 I’m interested in learning more about networking+ cybersecurity 
 - 🌱 I’m currently studying topics like networking + data structures
 - 📫 How to reach me ... lets connect on LinkedIn
