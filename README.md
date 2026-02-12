@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Soliyana Seyoum. An IT Student at UDC. 
-- 👀 I’m interested in learning more about networking, data analytics + cybersecurity 
-- 🌱 I’m currently studying topics like infosec, data structures, etc 
-- 💞️ I’m looking to collaborate on exciting projects
+- 👋 Hi, I’m Soliyana Seyoum. An IT Support Specialist. 
+- 👀 I’m interested in learning more about networking+ cybersecurity 
+- 🌱 I’m currently studying topics like networking + data structures
 - 📫 How to reach me ... lets connect on LinkedIn
 
 <!---
